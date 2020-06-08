@@ -1,0 +1,36 @@
+#slike
+{
+	position: relative;
+	margin-left: 500px;
+}
+p
+{
+	font-size: 20px;
+}
+body
+{
+	font-family: 'Open Sans', sans-serif;
+
+}
+h1
+{
+	font-weight: bold;
+}
+button
+{
+	font-size: 20px;
+	padding: 10px;
+	background: #4c60af;
+	color: white;
+	border: none;
+	border-radius: 10px;
+	position: block;
+	margin-left: 800px;
+	text-align: justify;
+}
+footer
+{
+  font-family: 'Open Sans', sans-serif;
+  font-size: 20px;
+  text-align: center;
+}

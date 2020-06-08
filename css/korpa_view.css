@@ -1,0 +1,91 @@
+.btn-izbaci
+{
+	padding: 7px;
+	font-size: 20px;
+	color: white;
+  	background: #4c60af;
+ 	border: none;
+ 	border-radius: 5px;
+ 	text-align: center;
+}
+.form
+{
+	background: #E5F0FF;
+}
+*
+{
+	font-family: 'Open Sans', sans-serif;
+	font-size: 20px;
+	-moz-box-sizing:border-box;
+	box-sizing: border-box;
+
+}
+.table-responsive
+{
+	min-height: 0.01%;
+	overflow-x: auto;
+}
+.table
+{
+	width: 100%;
+	max-width: 100%;
+	margin-bottom: 20px;
+	
+}
+.table
+{
+	background-color: transparent;
+}
+.table
+{
+	border-spacing: 0px;
+	border-collapse: collapse;
+}
+.table > tbody > tr > td, .table > tbody > tr > th, .table > tfoot > tr > td, .table > tfoot > tr > th, .table > thead > tr > td, .table > thead > tr > th
+{
+	padding: 8px;
+	line-height: 1.4285;
+	vertical-align: top;
+	border-top: 1px solid #ddd;
+}
+th
+{
+	text-align: left;
+}
+th,td
+{
+	border-bottom: 1px solid #ddd;
+}
+.h3, h3
+{
+	font-size: 24px;
+	text-align: center;
+}
+.h1, .h2, .h3, h1, h2, h3
+{
+	font-family: inherit;
+	font-weight: 500;
+	line-height: 1.1;
+	color: inherit;
+}
+#dugmeIzbaci:visited
+{
+	color: #4c60af;
+}
+body
+{
+	background: #E5F0FF;
+}
+.naplata
+{
+	padding: 10px !important;
+	font-size: 25px !important;
+	color: white !important;
+	background:  #4c60af !important;
+	border: none;
+	border-radius: 5px;
+	text-align: center;
+	margin: 0 auto;
+	display: block;
+	width: 100% !important;
+}

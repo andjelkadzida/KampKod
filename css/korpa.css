@@ -1,0 +1,78 @@
+.dugme
+{
+  padding: 10px;
+  font-size: 15px;
+  color: white;
+  background: #4c60af;
+  border: none;
+  border-radius: 5px;
+	text-align: center;
+	float: center;
+	display: block;
+	margin: 0 auto;
+}
+*
+{
+	font-family: 'Open Sans', sans-serif;
+	font-size: 20px;
+	margin: 0 auto;
+}
+
+.text-info
+{
+	display: block;
+	text-align: center;
+	color: #31708f;
+}
+.column {
+  float: left;
+  width: 33.33%;
+}
+
+.row:after {
+  display: table;
+  clear: both;
+}
+.carousel-inner > .item > a > img, .carousel-inner > .item > img, .img-responsive, .thumbnail a > img, .thumbnail > img
+{
+	display: block;
+	max-width: 100%;
+	height: auto;
+}
+img
+{
+	vertical-align: middle;
+}
+img
+{
+	border:0;
+}
+*
+{
+	-moz-box-sizing:border-box;
+	box-sizing: border-box;
+	
+}
+h4
+{
+	font-size: 18px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	font-weight: normal;
+}
+.form-control
+{
+	display: block;
+	height: 34px;
+	padding: 6px 12px;
+	font-size: 14px;
+	line-height: 1.4285;
+	width: 35% !important;
+}
+input[type="submit"]
+{
+	width: 35% !important;
+	margin-left:  205px !important;
+	display: inline-block !important;
+	margin-bottom: 10px;
+}
